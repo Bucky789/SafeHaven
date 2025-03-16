@@ -9,22 +9,15 @@ SafeHaven is a mobile application built using **React Native**. This app provide
 
 ## Tech Stack
 - **Framework**: React Native  
-- **Language**: JavaScript / TypeScript  
-- **State Management**: [e.g., Redux, Context API]  
+- **Language**: TypeScript  
 - **Navigation**: React Navigation  
-- **Backend**: [If applicable, e.g., Firebase, Node.js]  
+- **Backend**: Firebase
 
 ## Installation
 
 ### Prerequisites
 - **Node.js** installed ([Download here](https://nodejs.org/))
-- **React Native CLI** or Expo installed  
+- **React Native CLI**
 - **Android Studio** (for Android development)  
 - **Xcode** (for iOS development, Mac users only)  
-
-### Steps to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/SafeHaven.git
-   cd SafeHaven
 
