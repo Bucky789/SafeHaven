@@ -3,9 +3,8 @@
 SafeHaven is a mobile application built using **React Native**. This app provides [brief description of your app, e.g., "a secure and seamless experience for users."]  
 
 ## Features
-- [Feature 1] (e.g., Secure authentication)
-- [Feature 2] (e.g., Real-time notifications)
-- [Feature 3] (e.g., User-friendly UI)
+- Real Time Location 
+- Real Time Audio and Video Feed
 
 ## Tech Stack
 - **Framework**: React Native  
