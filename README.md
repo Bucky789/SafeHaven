@@ -20,3 +20,4 @@ SafeHaven is a mobile application built using **React Native**. This app provide
 - **Android Studio** (for Android development)  
 - **Xcode** (for iOS development, Mac users only)  
 
+## Presentation / Slides
